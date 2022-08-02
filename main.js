@@ -75,6 +75,3 @@ while (option !== 2) {
     }
 }
 console.log('Have a nice day!');
-
-
-
